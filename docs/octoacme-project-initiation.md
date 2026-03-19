@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Confirm role coverage for the project (see [Roles & Personas](./octoacme-roles-and-personas.md))
+- [ ] Complete kickoff role-alignment section of the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
 
 ## Decision Gate
 Move to planning when:

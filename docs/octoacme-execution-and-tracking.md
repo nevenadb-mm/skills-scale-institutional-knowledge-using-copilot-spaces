@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design → Dev handoffs completed per the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
+- [ ] Support feedback loop reviewed each sprint (see [Role Collaboration Checklist — Support Feedback Loop](./octoacme-role-collaboration-checklist.md))
