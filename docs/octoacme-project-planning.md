@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI ownership confirmed for backlog, risk register, and design assets (see [Roles & Personas — Who Owns What](./octoacme-roles-and-personas.md))
+- [ ] Design → Dev handoff conditions agreed (see [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md))

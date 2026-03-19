@@ -40,3 +40,5 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For production incidents, follow the incident escalation roles in the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
+- For role and ownership questions, refer to the [Roles & Personas — Who Owns What](./octoacme-roles-and-personas.md) matrix
